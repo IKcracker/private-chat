@@ -1,8 +1,19 @@
-# React + Vite
+# Private Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Private Chat Application! This is a simple and secure chat application that allows users to communicate in real-time. The application is built using modern web technologies and is designed to be responsive and user-friendly.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Real-Time Messaging**: Send and receive messages instantly with real-time updates.
+- **Responsive Design**: The application is fully responsive and works seamlessly on desktop and mobile devices.
+- **Emoji Support**: Add a fun element to your conversations with emoji support.
+- **User-Friendly Interface**: Minimalistic and intuitive UI for an enjoyable chat experience.
+- **Mobile Optimization**: On mobile view, the 'people' container disappears for a cleaner interface.
+
+## Installation
+
+To get started with the Private Chat Application, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/IKcracker/private-chat.git
