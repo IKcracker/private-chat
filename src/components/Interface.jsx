@@ -55,7 +55,7 @@ function Interface({ Email, Name, Tell }) {
         setInput('');
     }
 
-    function onEmojiClick(event, emojiObject) {
+    function onEmojiClick(event) {
         setInput(input + event.emoji);
     }
 
@@ -64,7 +64,7 @@ function Interface({ Email, Name, Tell }) {
             <section className="container">
                 <div>
                     <div className="top">
-                        <h1>Live Chat</h1>
+                        <h1>Live</h1>
                     </div>
                     <div>
                         <div className="people">
